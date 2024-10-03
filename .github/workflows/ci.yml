@@ -59,3 +59,4 @@ on:
         git commit -m "Atualiza para versão $new_version" 
 
         git push
+
